@@ -1,0 +1,12 @@
+streamlit==1.20.0
+PyPDF2==3.0.1
+openai==0.27.2
+transformers==4.27.1
+tiktoken==0.3.1
+git+https://github.com/ehsanbehdad/Pytube
+matplotlib==3.5.3
+pandas==1.4.4
+plotly==5.5.0
+scikit-learn==1.2.2
+scipy==1.10.1
+bs4
